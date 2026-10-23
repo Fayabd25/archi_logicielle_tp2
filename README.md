@@ -4,7 +4,7 @@
 
 Ce projet correspond au **TP2 de Master 1**, consacré à la mise en place et à l'analyse d'une **architecture hexagonale** autour du module Commande de ShopLite.
 
-##Participants 
+Participants : 
 ABID Faycal - KHETACHE Billal
 
 L'objectif est de comprendre la séparation entre :
